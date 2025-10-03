@@ -1,5 +1,11 @@
 <?php
 
+/**
+ * @author Kirill Myshkin
+ * @date 2025-10-03
+ * @link https://github.com/maximal/download-bot/issues/1
+ * @link https://github.com/mauskin
+ */
 return [
 	'description' => 'Questo bot scarica video da diversi servizi e social network: ' .
 		PHP_EOL . PHP_EOL .
